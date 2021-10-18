@@ -1,0 +1,7 @@
+C:\Users\alexr\Documents\Repos\EncapsulationExercise\EncapsulationExercise\bin\Debug\EncapsulationExercise.exe.config
+C:\Users\alexr\Documents\Repos\EncapsulationExercise\EncapsulationExercise\bin\Debug\EncapsulationExercise.exe
+C:\Users\alexr\Documents\Repos\EncapsulationExercise\EncapsulationExercise\bin\Debug\EncapsulationExercise.pdb
+C:\Users\alexr\Documents\Repos\EncapsulationExercise\EncapsulationExercise\obj\Debug\EncapsulationExercise.csproj.AssemblyReference.cache
+C:\Users\alexr\Documents\Repos\EncapsulationExercise\EncapsulationExercise\obj\Debug\EncapsulationExercise.csproj.CoreCompileInputs.cache
+C:\Users\alexr\Documents\Repos\EncapsulationExercise\EncapsulationExercise\obj\Debug\EncapsulationExercise.exe
+C:\Users\alexr\Documents\Repos\EncapsulationExercise\EncapsulationExercise\obj\Debug\EncapsulationExercise.pdb
